@@ -1,2 +1,4 @@
 trhis is test file
 more contents
+add 3rd line
+add 4th line
